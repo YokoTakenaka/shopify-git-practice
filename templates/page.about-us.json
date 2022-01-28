@@ -1,0 +1,124 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "16292763110a3da224": {
+      "type": "rich-text",
+      "blocks": {
+        "16292763110a3da224-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Us",
+            "heading_size": "medium"
+          }
+        },
+        "16292763110a3da224-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>DAILY TRIALは、現在のスニーカーシーンに新たなスタンダードを築き上げるために誕生した<br\/>デザイン性と機能性を兼ね備えたスニーカーブランドです。<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16292763110a3da224-0",
+        "16292763110a3da224-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "1629276360eb4858fb": {
+      "type": "image-with-text",
+      "blocks": {
+        "1629276360eb4858fb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Creation"
+          }
+        },
+        "1629276360eb4858fb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>ファッショナブルなだけではなく、機能性も重視した<br\/>オリジナリティあふれる商品とサービスをお客さまに提案いたします。<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1629276360eb4858fb-0",
+        "1629276360eb4858fb-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/About1.png",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1629276364e30b61b3": {
+      "type": "image-with-text",
+      "blocks": {
+        "1629276364e30b61b3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Evolution"
+          }
+        },
+        "1629276364e30b61b3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>お客さまに支持され続けるブランドになるよう<br\/>国内外のカルチャーにアンテナを張り、時代とともに進化していきます。<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1629276364e30b61b3-0",
+        "1629276364e30b61b3-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/About2.png",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "162927637182f8551a": {
+      "type": "image-with-text",
+      "blocks": {
+        "162927637182f8551a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Share"
+          }
+        },
+        "162927637182f8551a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>ブランドが持つカルチャーや世界観を発信し共有する<br\/>ことで、ブランドの価値を高め、より良いサービスを提供していきます。<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "162927637182f8551a-0",
+        "162927637182f8551a-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/About3.png",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16292763110a3da224",
+    "1629276360eb4858fb",
+    "1629276364e30b61b3",
+    "162927637182f8551a"
+  ]
+}

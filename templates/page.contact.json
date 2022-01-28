@@ -1,0 +1,46 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "16292770190314ee12": {
+      "type": "rich-text",
+      "blocks": {
+        "16292770190314ee12-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Contact",
+            "heading_size": "medium"
+          }
+        },
+        "16292770190314ee12-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>必要事項をご入力の上、送信ボタンを押してください。追って担当からご連絡させていただきます。<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16292770190314ee12-0",
+        "16292770190314ee12-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16292770190314ee12",
+    "form"
+  ]
+}
